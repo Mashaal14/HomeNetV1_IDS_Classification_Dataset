@@ -3,5 +3,7 @@
 
 ## Home Network Version 1 (H-N) 
 
-Bad Traffic, Network Detection Scan (using Snort Tool)
+Bad Traffic, Network Detection Scan 
+
+containg 10 column features 
 
